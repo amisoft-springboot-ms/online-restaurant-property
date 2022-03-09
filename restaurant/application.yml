@@ -1,2 +1,3 @@
 message: "Welcome to Durgesh's Vara Pav Restaurant"
-name: Durgesh Online Restaurant Order
+restaurant:
+   name: Durgesh Online Restaurant Order
